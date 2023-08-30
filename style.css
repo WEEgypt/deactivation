@@ -27,7 +27,7 @@ body {
 }
 h2 {
     text-align: center;
-    padding: 0px 40px 20px 10px;
+    padding: 0px 0px 20px 0px;
 }
 p {
     font-size: 12px;
@@ -40,7 +40,7 @@ td {
     height: 28px;
 }
 input[type="tel"] {
-    width: 140px;
+    width: 180px;
 }
 button {
     float: right;
@@ -52,29 +52,10 @@ select:focus {
     background-color: var(--mainDiv);
     padding: 34px 64px 34px 64px;
 }
-#store1,
-#store2 {
-    width: -webkit-fill-available;
-    width: -moz-available;
-}
-#day,
-#month,
-#year {
-    width: 80px;
-}
 .footer {
     text-align: center;
     font-size: 9px;
     padding-top: 8px;
-}
-textarea {
-    resize: none;
-    width: -webkit-fill-available;
-    width: -moz-available;
-    height: 240px;
-    padding: 10px 10px 10px 10px;
-    box-sizing: border-box;
-    font-family: monospace;
 }
 table {
     width: -webkit-fill-available;
