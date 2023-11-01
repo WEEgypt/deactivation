@@ -50,7 +50,7 @@ select:focus {
 }
 .mainDiv {
     background-color: var(--mainDiv);
-    padding: 30px 20px 30px 20px;
+    padding: 20px 30px 20px 30px;
 }
 .footer {
     text-align: center;
