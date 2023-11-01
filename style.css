@@ -40,7 +40,7 @@ td {
     height: 28px;
 }
 input[type="tel"] {
-    width: 180px;
+    width: 200px;
 }
 button {
     float: right;
@@ -50,7 +50,7 @@ select:focus {
 }
 .mainDiv {
     background-color: var(--mainDiv);
-    padding: 24px 34px 24px 34px;
+    padding: 25px;
 }
 .footer {
     text-align: center;
